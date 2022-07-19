@@ -1,0 +1,98 @@
+body{
+    background: url("images/pattern-background-desktop.svg");
+    background-repeat: no-repeat;
+    background-position: 0 -15px;
+    background-color: hsl(225, 100%, 94%);
+}
+
+main{
+    background-color: white;
+    width: 450px;
+    margin: 90px auto;
+    border-radius: 10px;
+}
+
+main h1{
+    color: hsl(223, 47%, 23%);
+    margin: 35px auto 20px;
+    width: fit-content;
+}
+
+main p{
+    width: 58%;
+    text-align: center;
+    color: hsl(224, 23%, 55%);
+    margin: 0 auto 30px;
+}
+
+.flex-box{
+    display: flex;
+    width: 75%;
+    margin: 0 auto 55px;
+    height: 75px;
+}
+
+.flex-box img{
+    width: 50px;
+    height: 50px;
+    margin: 10px 0 0 18px;
+}
+
+.flex-box ul{
+    list-style: none;
+    width: fit-content;
+    text-align: center;
+}
+
+.flex-box ul li{
+    /* padding: 2px 0; */
+    margin: 0 0 0 -20px;
+}
+
+.flex-box p{
+    margin: 25px -40px 0px 0;
+    text-decoration: underline;
+    color: hsl(245, 75%, 52%);
+}
+
+.flex-box{
+    background-color: hsl(225, 100%, 98%);
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+.image-curve{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.ram{
+    height: 40px;
+    text-align: center;
+    margin: 0 0 0 75px;
+    width: 65%;
+    border-radius: 10px;
+    background-color: hsl(245, 75%, 52%);
+    border: none;
+    box-shadow: 1px 4px 5px 3px hsla(240, 2%, 88%, 0.931);
+    color: azure;
+}
+
+.button-style h5{
+    text-align: center;
+    color: hsl(224, 23%, 55%) ;
+    width: auto;
+    margin: 0 auto 100px;
+    padding: 30px 0 30px 0;
+    width: fit-content;
+    border: none;
+}
+
+.pad{
+    padding: 0 0 8px 0;
+    color: hsl(223, 47%, 23%);
+}
+
+.color{
+    color: hsl(224, 23%, 55%) ;
+}
