@@ -72,7 +72,7 @@ main p{
     margin: 0 0 0 75px;
     width: 65%;
     border-radius: 10px;
-    background-color: hsl(245, 75%, 52%);
+    background-color: red;
     border: none;
     box-shadow: 1px 4px 5px 3px hsla(240, 2%, 88%, 0.931);
     color: azure;
